@@ -1,0 +1,10 @@
+1 . tampilkan tulisan unit pada form
+2 . buat formula
+*  1 meter = 1000 milimeters, jadinya klau nak tukar m ke mm, 1m kena kali 1000mm
+* apabila nombor dimasukkan dalam form, kemudian button convert ditekan, maka tampilkan jawapan dalam bentuk macam ini contoh "1504m is 150400mm"
+
+
+
+
+
+3 . kemudian tampilkan hasil pertukaran di bahagian bawah form
